@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi7800&label=Profile%20views&color=0e75b6&style=flat" alt="abhi7800" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi7800" alt="abhi7800" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/abhishe10401159" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe10401159?logo=twitter&style=for-the-badge" alt="abhishe10401159" /></a> </p>
 
 - 🔭 I’m Currently Working on **Traing and Placement Cell(MMMUT)**
