@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abhishek (Abhi)</h1>
-<img src="https://www.qualitydevs.com/wp-content/uploads/2017/12/desarrollador-1288x724.jpg" alt="7800"/>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi7800&label=Profile%20views&color=0e75b6&style=flat" alt="abhi7800" /> </p>
